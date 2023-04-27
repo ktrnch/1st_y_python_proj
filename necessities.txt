@@ -1,0 +1,12 @@
+torch: 160
+sunscreen: 100
+sunglasses: 100
+power bank: 500
+raincoat: 140
+lip balsam: 5
+insect spray: 100
+trekking poles: 570
+sleeping bag: 1100
+tent(one person): 5000
+first aid kit(take into count personal needs): 500
+GPS navigator: 400
